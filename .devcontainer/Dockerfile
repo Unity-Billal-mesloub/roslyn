@@ -1,4 +1,4 @@
-# See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.192.0/containers/dotnet/.devcontainer/base.Dockerfile
+# See here for image contents: https://github.com/Unity-Billal-mesloub/vscode-dev-containers/tree/v0.192.0/containers/dotnet/.devcontainer/base.Dockerfile
 
 FROM mcr.microsoft.com/dotnet/sdk:10.0
 
